@@ -1,4 +1,4 @@
-- 👋 Hi fellows programmers, I’m Tim K. aka @Oppani, you can also just call me Pani
+### 👋 Hi fellows programmers, I’m Tim K. aka @Oppani, you can also just call me Pani
 - 👀 I’m interested in Coding and IT-Security
 - 🌱 I’m currently learning Python,Go,C
 - 💞️ I’m looking to collaborate on ...
